@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "inet.h": "c",
+        "socket.h": "c",
+        "signal.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

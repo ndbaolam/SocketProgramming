@@ -1,0 +1,21 @@
+
+--- Output from client 4 at Mon Nov  4 09:25:04 2024
+---
+command_output.txt
+roomchat.c
+telnet
+telnet.c
+thread
+thread.c
+
+--- Output from client 4 at Mon Nov  4 09:27:24 2024
+---
+command_output.txt
+roomchat.c
+telnet
+telnet.c
+thread
+thread.c
+
+--- Output from client 4 at Mon Nov  4 09:27:32 2024
+---
